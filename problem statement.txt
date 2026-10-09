@@ -1,0 +1,11 @@
+Problem Statement: Pass or Fail Finder Based on Marks
+
+Create a Python program that asks the user to enter a student's marks out of 100 and determines whether the student has passed or failed.
+
+Requirements:
+1. Accept marks as numeric input.
+2. Treat 40 or more marks as PASS.
+3. Treat marks below 40 as FAIL.
+4. Reject marks below 0 or above 100 with an appropriate message.
+5. Handle non-numeric input without crashing.
+6. Display the student's marks and result clearly.
